@@ -1,0 +1,19 @@
+ <!DOCTYPE RCC><RCC version="1.0">
+ <qresource>
+        <file>icons/contextHelp.png</file>
+        <file>icons/rotate.png</file>
+        <file>icons/prefs.png</file>
+        <file>icons/scaled.png</file>
+        <file>icons/freeze.png</file>
+        <file>icons/charts_pic.png</file>
+        <file>icons/quit.png</file>
+        <file>icons/fileopen.png</file>
+        <file>icons/brighten.png</file>
+        <file>icons/darken.png</file>
+        <file>icons/stickpin.png</file>
+        <file>icons/stickpin_cursor.png</file>
+        <file>icons/icon_zoomout.png</file>
+        <file>icons/ortho.png</file>
+        <file>icons/zoom_cursor.png</file>
+</qresource>
+ </RCC>
